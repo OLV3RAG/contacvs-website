@@ -1,0 +1,6 @@
+{
+  "name": "CVS · Servicios Contables y Fiscales",
+  "description": "Despacho contable y asesoría fiscal empresarial en México. Contabilidad en orden, cumplimiento ante el SAT, planeación financiera, facturación electrónica y nómina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
